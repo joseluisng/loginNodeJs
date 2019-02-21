@@ -1,0 +1,19 @@
+{
+  "name": "restservernodejs",
+  "version": "1.0.0",
+  "description": "server registrar usuarios y login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joseluisng",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.9",
+    "mongoose-unique-validator": "^2.0.2",
+    "underscore": "^1.9.1"
+  }
+}
